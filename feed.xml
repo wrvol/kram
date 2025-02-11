@@ -3,10 +3,37 @@
     <title>Humdidumm</title>
     <link href="https://wrvol.github.io/kram/feed.xml" rel="self" />
     <link href="https://wrvol.github.io/kram" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-02-11T21:33:22+01:00</updated>
     <author>
-        <name>Hummi Dum</name>
+        <name>wrvol</name>
     </author>
     <id>https://wrvol.github.io/kram</id>
 
+    <entry>
+        <title>Aus dem Zement die Blume</title>
+        <author>
+            <name>wrvol</name>
+        </author>
+        <link href="https://wrvol.github.io/kram/aus-dem-zement-die-blume.html"/>
+        <id>https://wrvol.github.io/kram/aus-dem-zement-die-blume.html</id>
+            <category term="Christine Lavant"/>
+
+        <updated>2025-02-01T16:08:53+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Sag mir ein Wort, und ich stampfe dir aus dem Zement eine Blume heraus Christine Lavant: Sag mir ein Wort. Christine Lavant durchlebt in Österreich zu Beginn des 20. Jahrhunderts eine Kindheit, die einen erschauern lässt. Bereits mit fünf Wochen erkrankt sie an Skrofeln, sie erblindet fast, Lungenentzündungen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p>Sag mir ein Wort, und ich stampfe dir<br>aus dem Zement eine Blume heraus<br><br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Christine Lavant: Sag mir ein Wort.</span></p>
+</blockquote>
+<p> </p>
+<p class="p1">Christine Lavant durchlebt in Österreich zu Beginn des 20. Jahrhunderts eine Kindheit, die einen erschauern lässt. Bereits mit fünf Wochen erkrankt sie an Skrofeln, sie erblindet fast, Lungenentzündungen suchen sie immer wieder heim. Mit drei Jahren wird sie im Krankenhaus als „nicht mehr lebensfähig“ aufgegeben. Sie strickt für ihren Lebensunterhalt, heiratet und nachdem die Eltern schnell gestorben waren, schreibt sie in ihren Erinnerungen:</p>
+<p class="p1"><em>"Aber dann wurde mir eines Tages, wider meinen Willen, ein Band Rilke-Gedichte  aufgedrängt die ich nur mitnahm um die Bibliothekarin nicht zu kränken. Ich wusste von Rilke gar nichts und Gedichte mochte ich überhaupt nicht lesen weil man dabei nicht stricken kann. Nun – ich habe sie doch gelesen und dann ist es wie ein Wolkenbruch über mich gekommen und ich habe eine Weile fort fast Tag und Nacht nur Gedichte gedichtet.“</em></p>
+<p class="p1">Man muss den Bibliothekarinnen und Bibliothekaren danken und sie ermuntern, den Menschen Bücher aufzudrängen. In der Folge bekommt Christine Lavant zwei Mal den Trakl-Preis und 1970 auch den Großen Österreichischen Staatspreis für Literatur verliehen.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
