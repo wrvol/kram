@@ -3,7 +3,7 @@
     <title>Kram</title>
     <link href="https://wrvol.github.io/kram/feed.xml" rel="self" />
     <link href="https://wrvol.github.io/kram" />
-    <updated>2025-02-12T17:08:54+01:00</updated>
+    <updated>2025-02-12T17:43:42+01:00</updated>
     <author>
         <name>wrvol</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://wrvol.github.io/kram/aus-dem-zement-die-blume.html"/>
         <id>https://wrvol.github.io/kram/aus-dem-zement-die-blume.html</id>
+            <category term="Gedicht"/>
 
         <updated>2025-02-01T16:08:53+01:00</updated>
             <summary>
